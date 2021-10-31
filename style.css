@@ -26,7 +26,7 @@ li {
     padding-left: 80px;
   }
 
-  .content{
+  content{
       display:flex;
       justify-content: center;
       align-items: center;
@@ -37,3 +37,75 @@ li {
   summary{
       flex-basis: 50%;
   }
+
+  footer{
+      display:flex;
+  }
+
+  #LinkedIn {
+      height: 100px;
+      width: 100px;
+      margin: 50px;
+  }
+
+  #Github {
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+}
+
+  #Indeed {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+#Gmail {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+#Github {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+#Project1 {
+    height: 200px;
+    width: 250px;
+    margin: 50px;
+}
+
+#Project2 {
+    height: 200px;
+    width: 250px;
+    margin: 50px;
+}
+
+#Project3 {
+    height: 200px;
+    width: 250px;
+    margin: 50px;
+}
+
+#Work {
+    display:flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+#WorkHeader {
+    border-right: 3px solid black;
+}
+
+#ContactLinks {
+    display:flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
