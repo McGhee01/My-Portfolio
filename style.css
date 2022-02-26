@@ -5,6 +5,8 @@ body {
   }
 img{
     width: 700px;
+    box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781);
+
 }
 #Myself{
     width:800px;
@@ -84,6 +86,12 @@ li {
     margin: 50px;
 }
 
+#Project1,
+#Project2,
+#Project3 {
+    border-radius: .5em;
+}
+
 #Work {
     display:flex;
     margin-top: 100px;
@@ -103,3 +111,37 @@ li {
     margin-right: 150px;
     margin-left: 80px;
 }
+
+
+
+/* Footer  */
+
+.column {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2em;
+    min-height: 15em;
+  }
+  h3 {
+    width: 100%;
+    text-align: left;
+    color: white;
+    font-size: 1.4em;
+    white-space: nowrap;
+  }
+  .about p {
+    text-align: justify;
+    line-height: 2;
+    margin: 0;
+  }
+  div.social {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2.4em;
+    flex-direction: row;
+    margin-top: 0.5em;
+  }
+  .social i {
+    color: #bac6d9;
+  }
