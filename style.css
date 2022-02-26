@@ -42,35 +42,29 @@ li {
       display:flex;
   }
 
-  #LinkedIn {
+  /* #LinkedIn {
       height: 100px;
       width: 100px;
       margin: 50px;
-  }
+  } */
 
-  #Github {
-    height: 200px;
-    width: 200px;
-    margin: 50px;
-}
-
-  #Indeed {
+  #Github, #LinkedIn, #Indeed, #Gmail {
     height: 100px;
     width: 100px;
     margin: 50px;
 }
 
-#Gmail {
+  /* #Indeed {
     height: 100px;
     width: 100px;
     margin: 50px;
-}
+} */
 
-#Github {
+/* #Gmail {
     height: 100px;
     width: 100px;
     margin: 50px;
-}
+} */
 
 #Project1 {
     height: 200px;
