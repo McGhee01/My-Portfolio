@@ -56,6 +56,8 @@ li {
     height: 100px;
     width: 100px;
     margin: 50px;
+    box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781);
+    border-radius: .5em;
 }
 
   /* #Indeed {
@@ -92,6 +94,8 @@ li {
 #Project2,
 #Project3 {
     border-radius: .5em;
+    box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781);
+    
 }
 
 #Work {
