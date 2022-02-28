@@ -1,11 +1,10 @@
 
 body {
     background-color:rgb(146, 146, 146);
-   
-  }
+   }
 
-  
-img{
+
+  img{
     width: 700px;
     /* box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781); */
     border-radius: .5em;
