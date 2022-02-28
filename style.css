@@ -1,11 +1,14 @@
 
 body {
-    background-color:gray;
+    background-color:rgb(146, 146, 146);
    
   }
+
+  
 img{
     width: 700px;
-    box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781);
+    /* box-shadow: 0.5em 0.5em .5em rgba(0, 0, 0, 0.781); */
+    border-radius: .5em;
 
 }
 #Myself{
@@ -143,5 +146,5 @@ li {
     margin-top: 0.5em;
   }
   .social i {
-    color: #bac6d9;
+    color: #005ef5;
   }
