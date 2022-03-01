@@ -41,4 +41,5 @@ Padding was used to ensure that the pictures will not stay along the left side o
     padding-left: 80px;
   }
 
-  
+  Link to Page To Update Navbar via Commented Code On index.html and style.css files:
+  https://www.w3schools.com/howto/howto_css_topnav_equal_width.asp
